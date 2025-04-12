@@ -1,6 +1,6 @@
 
 
-select
+select 
 c.category_name as name, 
 p.product_name as product_name, 
 p.unit_price as unite_price, 
